@@ -1,6 +1,6 @@
 #Learing from basics react
 
-link - https://github.com/academind/react-complete-guide-code/tree/15-building-custom-react-hooks
+link - https://github.com/academind/react-complete-guide-code/blob/16-working-with-forms
 
 ### A js file can have multiple state, and we have three ways to handle those state.
 
@@ -130,3 +130,23 @@ It allows to tap into a context and listen to it.
 - RUles of Hooks
 -Used in functions or in custom React Hook
 -Call the on top of component only
+  
+  
+###  UseMemo() and memoize
+//need tp learn more
+
+
+
+### Custom Hooks 
+
+Custom hooks are just function with statefull logic
+(need to learn more )
+
+
+
+### validating form inputs
+- to get the value entered in form 
+event.target.value OR nameInputRef.current.value 
+while using ref setting the form field to empty becomes trobulesome hence we use state to empty the input box after submit buy setting the setEnteredName as empty .
+
+
