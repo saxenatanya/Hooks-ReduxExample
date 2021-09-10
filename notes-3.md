@@ -1,6 +1,7 @@
 #Learing from basics react
 
-link - https://github.com/academind/react-complete-guide-code/blob/16-working-with-forms
+link - https://github.com/academind/react-complete-guide-code/tree/16-working-with-forms
+
 
 ### A js file can have multiple state, and we have three ways to handle those state.
 
